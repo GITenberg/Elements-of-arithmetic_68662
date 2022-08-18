@@ -1,5 +1,8 @@
 _repo: Elements-of-arithmetic_68662
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68662-h/images/cover.jpg
 creator:
   author:
     agent_name: De Morgan, Augustus
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25678
     wikipedia: https://en.wikipedia.org/wiki/Augustus_De_Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68662#Elements-of-arithmetic
 gutenberg_issued: '2022-08-01'
 identifiers:
   gutenberg: '68662'
